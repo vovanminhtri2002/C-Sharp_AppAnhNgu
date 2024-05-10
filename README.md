@@ -55,11 +55,18 @@
 
 ![image](https://github.com/vovanminhtri2002/C-Sharp_AppAnhNgu/assets/118377344/4f6d43db-6935-479b-be0c-dca99a889dc9)
 
-<h3>Giao diện quản lý lớp dành cho quản lý</h3>
+<h3>Giao diện quản lý thanh toán dành cho quản lý</h3>
 
 ![image](https://github.com/vovanminhtri2002/C-Sharp_AppAnhNgu/assets/118377344/ee995c92-6ad2-4455-9444-97d1f4c9008b)
 
+<h3>Giao diện quản lý phân phối tài liệu dành cho quản lý</h3>
 
+![image](https://github.com/vovanminhtri2002/C-Sharp_AppAnhNgu/assets/118377344/74a75864-5734-489c-9033-3943689794e2)
 
+<h3>Giao diện quản lý thống kê dành cho quản lý</h3>
 
+![image](https://github.com/vovanminhtri2002/C-Sharp_AppAnhNgu/assets/118377344/2cfe609a-1f97-4fcc-b898-5ce5b1cf92e6)
 
+<h3>Database của app Anh Ngữ</h3>
+
+![image](https://github.com/vovanminhtri2002/C-Sharp_AppAnhNgu/assets/118377344/1dcc46ea-911a-4d58-94e4-3632a985386f)
