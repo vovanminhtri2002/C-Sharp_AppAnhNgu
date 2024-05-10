@@ -1,0 +1,42 @@
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.csproj.AssemblyReference.cache
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDangNhap.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.Properties.Resources.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.csproj.GenerateResource.cache
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.csproj.CoreCompileInputs.cache
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\bin\Debug\Do_An_Nonsql.exe.config
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\bin\Debug\Do_An_Nonsql.exe
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\bin\Debug\Do_An_Nonsql.pdb
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.exe
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.pdb
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDoiMatKhau.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fTrangChu.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQLCX.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQLX.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQLNV.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fHVX.resources
+D:\Nosql\Do_An_Nonsql\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDVX.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDangNhap.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDoiMatKhau.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fTrangChu.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.exe
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.pdb
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\bin\Debug\Do_An_Nonsql.exe.config
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\bin\Debug\Do_An_Nonsql.exe
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\bin\Debug\Do_An_Nonsql.pdb
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.Properties.Resources.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyNhanVien.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyHocVien.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fTheoDoiDiemDanh.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDiemSoVaDanhGia.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fPhanPhoiTaiLieu.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyGiaoVien.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyKhoaHoc.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyLichHoc.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyNguoiDung.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fQuanLyPhongVaLopHoc.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fTaoBaoCao.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fThanhToan.resources
+D:\ĐỒ ÁN\Do_An_Chuyen_Nganh\Do_An_Nonsql\obj\Debug\Do_An_Nonsql.fDangKy.resources

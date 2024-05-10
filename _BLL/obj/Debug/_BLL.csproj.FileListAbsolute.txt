@@ -1,0 +1,185 @@
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\DoAnCN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
